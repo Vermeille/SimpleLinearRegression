@@ -6,3 +6,7 @@ learning concepts to a friend.
 Feel free to add more comments or improve readability.
 
 Compile it with `make tuto` or you fav C compiler. That's it. No dependency.
+
+# Explanation
+
+![explanation](explanation.jpeg)
